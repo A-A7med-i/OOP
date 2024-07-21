@@ -5,14 +5,17 @@
 • Each specialization has only 5 available spots in a queue.
 
 • When adding a patient:
+
     ◦ Read their name and status (0 = regular; 1 = urgent).
     ◦ If the requested specialization doesn’t exist, apologize and don’t accept.
     ◦ If the patient is regular, add them to the end of the queue; otherwise, add them to the beginning.
 
 • To print patients for specializations with waiting patients:
+
     ◦ Display the patients in the queue.
 
 • When a doctor picks up a patient:
+
     ◦ Read the requested specialization.
     ◦ If no patients exist, inform the doctor.
     ◦ Otherwise, ask the patient to go with the doctor and remove them from the queue.
