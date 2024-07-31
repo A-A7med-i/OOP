@@ -1,0 +1,21 @@
+• Create a library system to maintain information about books and users
+
+• Each book has: id (int) name - quantity
+
+• Each user has: id name
+
+• System allows adding a book or a user by reading the above information
+
+• Books operations
+
+    ◦ Given a prefix, list all books with this prefix string
+
+    ◦ List the books sorted either based on id or name
+
+    。Given a book name, list all users borrowed such a book
+
+User operations
+
+• User can borrow or return a book
+
+    。List all system users: With borrowed books IDs sorted
