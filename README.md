@@ -66,3 +66,6 @@ Here's a general workflow for contributing:
 For detailed contribution guidelines, please refer to the `CONTRIBUTING.md` file (if present).
 
 
+## LICENSE
+
+[MIT License](LICENSE)
