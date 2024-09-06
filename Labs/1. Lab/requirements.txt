@@ -1,0 +1,11 @@
+1. Design a 3D Point Class
+
+    * Implement void Display() that displays all point coordinates.
+
+    * Implement int CalculateDistance(Point p1, Point p2) (e.g. distance based on X coordinate only)
+
+2. Design a Fraction Class
+
+    * Implement void Display().
+
+    * Implement Fraction Add(Fraction f1, Fraction f2)
