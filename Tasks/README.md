@@ -14,7 +14,7 @@ Welcome to the OOP Tasks folder! Here, you'll find solutions to various programm
    - Concepts: class properties (e.g., floors, area).
 
 
-2. **Task 3 (cpp/invoice.cpp and py/invoice.py):**
+2. **Task 2 (cpp/invoice.cpp and py/invoice.py):**
    - Description: Simulate an invoice system for a business (e.g., products, quantities, prices).
    - Concepts: Polymorphism, abstract classes (e.g., Invoice base class).
 
